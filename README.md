@@ -8,7 +8,7 @@ for struct in Go.
 Standard `go get`:
 
 ```
-$ go get github.com/rxwycdh/rxhash/v1
+$ go get github.com/rxwycdh/rxhash
 ```
 
 ## Qucik Start
