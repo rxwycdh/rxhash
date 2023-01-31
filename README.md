@@ -1,7 +1,7 @@
 # rxhash [![GoDoc](https://godoc.org/github.com/rxwycdh/rxhash?status.svg)](https://godoc.org/github.com/rxwycdh/rxhash)
 
 rxhash is a Go library for creating a unique hash value for struct in Go,  but **data consistency**.
-> waht is data consistency?
+> What is data consistency?
 >
 > ```golang
 > import "github.com/rxwycdh/rxhash"
@@ -15,7 +15,7 @@ rxhash is a Go library for creating a unique hash value for struct in Go,  but *
 > fmt.Println(HashStruct(a) == HashStruct(b)) // true
 > ```
 >
-> **So This library is useful for detecting whether the contents of a structure have changed.**
+> **So this library is useful for detecting whether the contents of a structure have changed.**
 
 
 ## Installation
